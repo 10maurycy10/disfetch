@@ -37,7 +37,7 @@ fn main() {
         disfetch[i].push_str(&logo[i]);
     }
     
-    disfetch[0].push_str(&format!("\x1b[36;1m{}\x1b[0m@\x1b[36;1m{}", config.username, config.hostname));
+    disfetch[0].push_str(&format!("\x1b[36;1m{}\x1b[0m@\x1b[36;1m{}\x1b[0m", config.username, config.hostname));
     disfetch[1].push_str("\x1b[0m--------");
     
     for i in 0..lines.len() {

@@ -23,5 +23,5 @@ Then paste into discord.
 ## Avalable logos:
 
 - logos/discord: The discord logo
-
+- logos/discord\_small: The smaller discord logo 
 - logos/arch: The arch linux logo
