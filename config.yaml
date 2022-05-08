@@ -1,0 +1,18 @@
+logo: logos/arch
+username: YouNameHere
+hostname: disfetch
+lines: [
+    ["OS", "Arch BTW x86_64"],
+    ["Client", "Discord in Chromium"],
+    ["Client Version", "100.0.4896.88"],
+    ["Client Uptime", "1 hour"],
+    ["Client Packages", "3 (chomium)"],
+    ["Client Resolution", "1920x1080"],
+    ["Servers", "10"],
+    ["Theme", "Dark"],
+    ["Icons", "Dark"],
+    ["Font", "Fira Code"],
+    ["MFA Modes", "OTP"],
+    ["Moderator of", "1 (server)"],
+    ["Accounts", 1]
+]
