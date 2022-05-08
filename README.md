@@ -2,9 +2,11 @@
 
 A discord neofetch generator.
 
+![neofetch](https://user-images.githubusercontent.com/45378255/167285157-7a273777-cd84-485d-a6d0-c0da985f1c1b.png)
+
 ## Configuration
 
-Just edit config.yaml,
+Just edit ``config.yaml``.
 
 ## Running
 
