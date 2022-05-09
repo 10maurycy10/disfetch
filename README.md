@@ -16,6 +16,7 @@ Just edit ``config.yaml``.
 ```sh
 cargo run | wl-copy # if you are using wayland
 cargo run | xclip # on xorg
+cargo run | clip # on Windows
 ```
 
 Then paste into discord.
