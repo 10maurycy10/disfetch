@@ -11,7 +11,7 @@ Just edit ``config.yaml``.
 ## Running
 
 
-``cargo run`` will show you the result, but you can **not** copy from the terminal, you must use a tool like xclip or wl-copy:
+``cargo run`` will show you the result, but you can **not** copy from the terminal, you must use a tool like `xclip` or `wl-copy` (`clip` on Microsoft Windows):
 
 ```sh
 cargo run | wl-copy # if you are using wayland
