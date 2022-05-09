@@ -27,3 +27,5 @@ Then paste into discord.
 - logos/discord\_small: The smaller discord logo 
 - logos/arch: The arch linux logo
 - logos/debian: The standard debian gnu/linux logo
+- logos/windows_10: The Microsoft Windows 10 logo
+- logos/windows_11: The Microsoft Windows 11 logo
